@@ -1,0 +1,233 @@
+[
+  {
+    "id": "chiropractic_overview",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "overview",
+    "title": "Chiropractic Manipulation",
+    "content": "Chiropractic manipulation is most commonly applied to the spine but is also effective in improving mobility and alleviating pain in all joints throughout the body. Chiropractic manipulation is a safe non-invasive procedure that utilizes the doctor’s hands to mobilize a targeted joint. The manipulation uses a high-velocity, low-amplitude thrust over restricted joints. The cavitation (the “pop”) that may be heard is due to the release of gas (mostly nitrogen, oxygen, and carbon dioxide) in the joints.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_joints",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "joints",
+    "title": "Joints Chiropractic Manipulation Can Be Applied To",
+    "content": "Manipulation can be applied to the following joints: Spine, Ears, Shoulder/clavicle, Elbow, Wrist, Hip, Knee/Ankle/foot, Ribs, Temporomandibular joint (TMJ).",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_other_therapies",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapies",
+    "title": "Other Therapies",
+    "content": "Using an integrative approach, Transcendence Health offers many alternative tools and techniques to meet your health and wellness needs.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_cupping",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapy",
+    "title": "Cupping",
+    "content": "Cupping uses negative pressure to lift the muscle fibers and draw blood to the area to reduce stagnation and reduce pain and inflammation.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_graston",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapy",
+    "title": "Graston (IASTM)",
+    "content": "Evidence-based form of instrument-assisted soft tissue mobilization that enables clinicians to effectively break down scar tissue and fascial restrictions. Also known as muscle scraping, gua sha, or astym.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_manual_therapy",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapy",
+    "title": "Manual Therapy",
+    "content": "Hands-on approach to treat musculoskeletal pain and joint dysfunction. It involves kneading muscles and joint mobilization.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_therapeutic_exercise",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapy",
+    "title": "Therapeutic Exercise",
+    "content": "Offers specific movement challenges that target the affected muscle group, joint complex and/or neurological pathways with the goal of correcting maladaptive patterns.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_kinesio_taping",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapy",
+    "title": "Kinesio Taping",
+    "content": "Therapeutic taping technique that is used to relieve pain, reduce swelling and inflammation, and provide support to joints and muscles.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_dry_needling",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "other_therapy",
+    "title": "Dry Needling",
+    "content": "Dry needling is a therapeutic technique used to treat musculoskeletal pain and dysfunction. Thin needles are inserted into a muscle’s trigger point to stimulate a healing response and alleviate pain.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "chiropractic_insurance",
+    "type": "service",
+    "service": "chiropractic",
+    "section": "insurance",
+    "title": "Insurance",
+    "content": "The following are insurances Transcendence Health accepts for chiropractic care: Anthem BCBS, UnitedHealthcare, Medical Mutual of Ohio, and Traditional Medicare plans. All other insurances are currently Out-Of-Network and the office can supply you with a Superbill for insurance reimbursement upon request. We accept HSA and FSA payments. It is the patient’s responsibility and we highly recommend calling your insurance provider for their individual plan benefits and coverage.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_overview",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "overview",
+    "title": "Acupuncture",
+    "content": "Acupuncture is a non-pharmacological, science-driven practice that is highly effective for people in all stages of life.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_effectiveness",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "effectiveness",
+    "title": "Does acupuncture really work?",
+    "content": "Acupuncture is a 5000-year-old eastern medicine practice to help manage many conditions and diseases. Acupuncture has shown to be an effective treatment on its own or in conjunction with western medicine treatments.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_how_it_works",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "how_it_works",
+    "title": "How does acupuncture work?",
+    "content": "The practice is based on achieving physical and psychological well-being through restoring balance. The goal of acupuncture is to move and balance qi (pronounced “chee”) in the body. The physician determines the specific pattern of imbalance causing the symptoms and gets to the root of the issue by inserting thin needles into the skin to stimulate the body’s natural healing abilities.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_candidate",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "candidate",
+    "title": "Are you not getting results from your primary care treatments?",
+    "content": "If you are one of the many people looking for relief but not finding it from your primary care physician or from medication, you are an ideal candidate for acupuncture.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_treatment_experience",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "treatment_experience",
+    "title": "What can I expect during my treatment?",
+    "content": "Treatments are relaxing, restorative, and virtually painless. When the needles are inserted, you may feel a pinch or pressure, coldness, and tingling. You will lie with the needles for 20-40 minutes, depending on the condition.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_conditions",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "conditions",
+    "title": "What can acupuncture treat?",
+    "content": "While acupuncture excels at offering relief in treating numerous conditions, it also plays a large role in preventative health. Even if you have no active symptoms but want to remain that way, acupuncture is beneficial. Common conditions treated include smoking cessation, carpal tunnel, seasonal allergies and sinusitis, neuro conditions such as Bell’s Palsy, Parkinson’s, MS, AS, and neuropathy, migraines and headaches, low back pain, plantar fasciitis, loss of smell or taste post COVID, dry eyes, PMS and dysmenorrhea, infertility, fatigue, vertigo, and frozen shoulder.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "acupuncture_home_care",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "home_care",
+    "title": "Home Acupuncture",
+    "content": "Dr. Hales has partnered with Wellspring Homecare and Hospice to provide acupuncture in the home setting to effectively ease pain and support better quality of life at the end stage of life.",
+    "source_url": "https://www.transcendencehealth.care/acupuncture",
+    "source_name": "Transcendence Health"
+  },
+  {
+  "id": "acupuncture_packages",
+  "type": "service",
+  "service": "acupuncture",
+  "section": "packages",
+  "title": "Acupuncture Packages",
+  "content": "Contact the office to learn about discounts offered when purchasing Acupuncture Packages.",
+  "source_url": "https://www.transcendencehealth.care/acupuncture",
+  "source_name": "Transcendence Health",
+  "actions": ["contact", "booking"]
+  },
+  {
+    "id": "acupuncture_insurance",
+    "type": "service",
+    "service": "acupuncture",
+    "section": "insurance",
+    "title": "Acupuncture Insurance",
+    "content": "Our office does not bill insurance directly for acupuncture services. Most plans, including Medicare, do not cover acupuncture under chiropractic licenses.",
+    "source_url": "https://www.transcendencehealth.care/chiropractic-manipulation",
+    "source_name": "Transcendence Health"
+  },
+{
+    "id": "contact_email",
+    "type": "contact",
+    "title": "Email",
+    "content": "Transcendence Health can be contacted by email at TranscendenceHealthLLC@outlook.com. If there is no response within 48 business hours, the message may have landed in spam. The office recommends calling (440) 644-0064 for faster assistance.",
+    "source_url": "https://www.transcendencehealth.care/contact",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "contact_phone",
+    "type": "contact",
+    "title": "Phone",
+    "content": "Transcendence Health can be reached at (440) 644-0064.",
+    "source_url": "https://www.transcendencehealth.care/contact",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "contact_address",
+    "type": "contact",
+    "title": "Address",
+    "content": "Transcendence Health is located at 36591 Center Ridge Road, Suite 101, North Ridgeville, OH 44039.",
+    "source_url": "https://www.transcendencehealth.care/contact",
+    "source_name": "Transcendence Health"
+  },
+  {
+    "id": "contact_hours",
+    "type": "contact",
+    "title": "Office Hours",
+    "content": "Monday: Closed. Tuesday: 9am - 6pm. Wednesday: 12pm - 6pm. Thursday: 12pm - 6pm. Friday: 9am - 6pm. Saturday: Closed. Sunday: Closed.",
+    "source_url": "https://www.transcendencehealth.care/contact",
+    "source_name": "Transcendence Health"
+  },
+{
+  "id": "booking",
+  "type": "booking",
+  "title": "Book Appointment",
+  "content": "You can book an appointment directly from here.",
+  "source_url": "https://transcendencehealth.janeapp.com/",
+  "source_name": "Transcendence Health"
+}
+]
